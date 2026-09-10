@@ -74,7 +74,6 @@ sudo /usr/local/sbin/web-panel-proxy-uninstall
 ## Ссылки
 
 - [GitHub проекта](https://github.com/POLESNIESOVETI12/web-panel-proxy)
-- [YouTube автора](https://www.youtube.com/@POLESNIESOVETI12)
 
 ## Лицензия
 
